@@ -1,3 +1,1 @@
-<img width="1869" height="746" alt="Screenshot 2025-09-15 223752" src="https://github.com/user-attachments/assets/8a98eae4-94af-4105-8325-77767e9e5d17" />
-<img width="1874" height="389" alt="Screenshot 2025-09-15 223839" src="https://github.com/user-attachments/assets/0cbd3a93-02b4-49f9-b029-94004559079a" />
-For Part-D the table will remain as no transaction completed
+<img width="536" height="802" alt="sql" src="https://github.com/user-attachments/assets/4c359a92-fc88-45d9-90c9-d01be7c7e146" />
